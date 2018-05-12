@@ -1,4 +1,8 @@
 _repo: Motorcycle-Solo-Harley-Davidson-Model-WLA_51058
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51058-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. War Department
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '3745'
     url: http://www.gutenberg.org/2009/agents/3745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51058#Motorcycle-Solo-Harley-Davidson-Model-WLA
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
